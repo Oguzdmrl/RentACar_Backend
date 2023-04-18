@@ -1,2 +1,2 @@
-# RentACar_Backend
- Kodlama.io kampında kamp süresince ödev olarak geliştirmiş olduğumuz Rent A Car projemiz.
+# ReCapProject
+SOLİD Prensiplerine uygun, AOP-Autofac-Fluentvalidation- JWT vsvs.. gibi teknikler ile kurumsal bir mimariye göre tasarlayıp geliştirerek öğrendiğimiz proje.. 
